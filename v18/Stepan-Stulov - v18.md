@@ -1,5 +1,5 @@
 
-# Stepan Stulov — Software Engineering Leader | Hands-On Software Architect
+# Stepan Stulov — Product Engineering Lead
 
 Munich, Germany • info@stepanstulov.pro • +49 174 269 7778 • LinkedIn: https://www.linkedin.com/in/stepanstulov/
 
@@ -7,13 +7,13 @@ Munich, Germany • info@stepanstulov.pro • +49 174 269 7778 • LinkedIn: htt
 
 ## Professional Summary
 
-Hands-on software engineering leader and architect with 15+ years of experience building web applications, enterprise workflow platforms, and real-time interactive systems. Experienced in taking products from early development to production, building and leading engineering teams, and combining technical direction with hands-on software development.
+Product engineering lead and hands-on software architect with 15+ years of experience building web applications, enterprise workflow platforms, and real-time interactive systems. Experienced in taking products from early development to production, growing and leading engineering teams, and combining technical direction with hands-on software development.
 
-As Head of Technology at Goodly Innovations, helped build OptiworX into a production platform deployed across global pharmaceutical manufacturing facilities, through the company's acquisition by BioNTech. Built and developed the engineering team, including team growth strategy, recruitment, onboarding, mentoring, and day-to-day leadership. Subsequently helped guide the team through its transition into BioNTech's larger organization.
+At Goodly Innovations, helped build OptiworX into a production platform deployed across global pharmaceutical manufacturing facilities, through the company's acquisition by BioNTech. Built and developed the engineering team, including growth strategy, recruitment, onboarding, mentoring, and day-to-day leadership. Subsequently helped guide the team through its transition into BioNTech's larger organization.
 
 Broad technical background spanning **C#/.NET**, full-stack web development, distributed application components, industrial AR/VR, robotics, and applied AI. Recent hands-on work includes **React/TypeScript**, **Python**, humanoid robot teleoperation, conversational AI, and LLM-based automation.
 
-Product-oriented and pragmatic, with a preference for technical ownership, small effective teams, clear delivery practices, and engineering solutions grounded in real user needs.
+Product-oriented and pragmatic, with a preference for technical ownership, effective engineering teams, clear delivery practices, and solutions grounded in real user needs.
 
 ---
 
@@ -57,7 +57,7 @@ Product-oriented and pragmatic, with a preference for technical ownership, small
 
 ## Professional Experience
 
-### Independent Software Engineer & Technical Lead
+### Independent Software Engineer (Product Engineering)
 
 **03.2025 – present | Munich, Germany**
 
@@ -114,12 +114,14 @@ Led engineering delivery for a no-code platform for interactive 3D worlds with V
 
 ---
 
-### BioNTech SE — Lead Software Engineer (Technical & Team Leadership)
+### BioNTech SE — Lead Software Engineer
 
 *Following the acquisition of Goodly Innovations*  
 **10.2023 – 04.2025 | Munich, Germany**
 
 Continued development of OptiworX within BioNTech while helping guide the existing engineering team through integration into a significantly larger organization.
+
+**Team Leadership & Organizational Integration**
 
 - Helped the team navigate new organizational structures, processes, stakeholders, and ways of working following the acquisition.
 - Interpreted and communicated newly established organizational expectations while adapting to them alongside the team.
@@ -146,14 +148,14 @@ Continued development of OptiworX within BioNTech while helping guide the existi
 
 ---
 
-### Goodly Innovations — Head of Technology / Founding Lead Software Engineer
+### Goodly Innovations — Lead Software Engineer (Founding)
 
 *Acquired by BioNTech*  
 **01.2018 – 09.2023 | Munich, Germany**
 
 Helped build OptiworX, an industrial AR-enabled software platform for digital work instructions and pharmaceutical manufacturing workflows, from early product development through deployment in global manufacturing environments.
 
-Combined hands-on engineering and architectural ownership with responsibility for growing, developing, and leading the engineering team.
+Combined hands-on engineering and architectural ownership with **Head of Technology responsibilities**, including growing, developing, and leading the engineering team.
 
 **Engineering Leadership & Team Building**
 
@@ -204,7 +206,7 @@ Developed a Lara Croft GO-esque puzzle game prototype for iOS.
 
 ---
 
-### Ravensburger Digital — Senior Software Engineer
+### Senior Software Engineer — Ravensburger Digital
 
 **01.2011 – 05.2016 | Munich, Germany**
 
@@ -216,7 +218,7 @@ Developed a Lara Croft GO-esque puzzle game prototype for iOS.
 
 ---
 
-### Friday's Games (Alawar) — Software Engineer
+### Software Engineer — Friday's Games (Alawar)
 
 **11.2009 – 12.2010 | Novosibirsk, Russia**
 
@@ -228,7 +230,7 @@ Developed a Lara Croft GO-esque puzzle game prototype for iOS.
 
 ---
 
-### Felix Labs — Software Engineer
+### Software Engineer — Felix Labs
 
 **07.2009 – 11.2009 | Chandigarh, India**
 
@@ -239,7 +241,7 @@ Developed a Lara Croft GO-esque puzzle game prototype for iOS.
 
 ---
 
-### Sibers — Software Engineer
+### Software Engineer — Sibers
 
 **08.2008 – 05.2009 | Novosibirsk, Russia**
 
@@ -251,7 +253,7 @@ Developed a Lara Croft GO-esque puzzle game prototype for iOS.
 
 ---
 
-### Novel Software Systems — Junior Software Engineer
+### Junior Software Engineer — Novel Software Systems
 
 **06.2007 – 07.2008 | Novosibirsk, Russia**
 
@@ -263,7 +265,7 @@ Developed a Lara Croft GO-esque puzzle game prototype for iOS.
 
 ---
 
-### Parallels — Intern Software Engineer
+### Intern Software Engineer — Parallels
 
 **06.2006 – 12.2006 | Novosibirsk, Russia**
 
@@ -293,4 +295,4 @@ B.Sc. in Computer Engineering (Computer Graphics), 2005–2009
 
 ## Keywords
 
-C#, Python, TypeScript, JavaScript, SQL, PowerShell, Java, C++, ActionScript, Go (Golang, foundational), .NET, ASP.NET, ASP.NET Core, React, WPF (Windows Presentation Foundation), Unity, Godot Engine, Nakama, Adobe Flash, Adobe AIR, OpenGL, iOS, Android, Windows, Linux, Ubuntu, Git, GitHub, npm, Supabase, Supabase Edge Functions, Vercel, PostgreSQL, NoSQL, relational databases, relational data modeling, database transactions, object storage, blob storage, caching, API design, REST APIs, gRPC, SignalR, UDP, real-time networking, publish/subscribe (pub/sub), event-driven architecture, concurrency, state synchronization, server-side state management, multi-client session management, full-stack development, backend development, frontend development, desktop application development, mobile application development, game development, product engineering, software architecture, software as a service (SaaS), multi-tenancy, role-based access control (RBAC), workflow engines, workflow orchestration, workflow automation, rapid prototyping, Docker, containerization, continuous integration and continuous delivery (CI/CD), GitHub Actions, Azure DevOps, Amazon Web Services (AWS, experimental), Amazon Elastic Container Registry (ECR, experimental), Amazon Elastic Container Service (ECS, experimental), Amazon S3 (experimental), on-premises deployment, build automation, reproducible builds, automated testing, integration testing, xUnit, structured logging, diagnostic logging, debugging, regulated software development, GxP, pharmaceutical manufacturing, life sciences software, standard operating procedures (SOPs), technical leadership, Head of Technology, engineering leadership, engineering team leadership, engineering team growth, workforce planning, team growth strategy, skill gap analysis, recruitment, technical recruitment, job specification development, candidate screening, technical interviews, coding challenges, candidate evaluation, engineer onboarding, knowledge transfer, engineering mentoring, professional development, team workshops, one-on-one meetings (1:1s), conflict resolution, team coordination, engineering culture, engineering standards, organizational integration, post-acquisition integration, requirements management, stakeholder reviews, stakeholder alignment, release management, change management, Definition of Done, delivery process improvement, cross-functional collaboration, augmented reality (AR), virtual reality (VR), industrial AR, interactive 3D, no-code platforms, computer graphics, 3D rendering, physics simulation, ROS 2 (ROS2), humanoid robotics, robot simulation, VR teleoperation, pose retargeting, robot joint control, robot selection, operator demonstration capture, training data collection, conversational AI, large language models (LLMs), LLM integration, OpenAI API, speech-to-text (STT), prompt engineering, prompt templates, prompt chaining, AI-assisted development, AI-assisted software engineering, AI visibility, AI SEO, generative engine optimization (GEO), search engine optimization (SEO), SEO audits, website performance auditing, Google AI Mode, Google Search Console, Google PageSpeed Insights, Ahrefs, Peec AI, Otterly.AI, Apollo.io
+C#, Python, TypeScript, JavaScript, SQL, PowerShell, Java, C++, ActionScript, Go (Golang, foundational), .NET, ASP.NET, ASP.NET Core, React, WPF (Windows Presentation Foundation), Unity, Godot Engine, Nakama, Adobe Flash, Adobe AIR, OpenGL, iOS, Android, Windows, Linux, Ubuntu, Git, GitHub, npm, Supabase, Supabase Edge Functions, Vercel, PostgreSQL, NoSQL, relational databases, relational data modeling, database transactions, object storage, blob storage, caching, API design, REST APIs, gRPC, SignalR, UDP, real-time networking, publish/subscribe (pub/sub), event-driven architecture, concurrency, state synchronization, server-side state management, multi-client session management, full-stack development, backend development, frontend development, desktop application development, mobile application development, game development, product engineering, software architecture, software as a service (SaaS), multi-tenancy, role-based access control (RBAC), workflow engines, workflow orchestration, workflow automation, rapid prototyping, Docker, containerization, continuous integration and continuous delivery (CI/CD), GitHub Actions, Azure DevOps, Amazon Web Services (AWS, experimental), Amazon Elastic Container Registry (ECR, experimental), Amazon Elastic Container Service (ECS, experimental), Amazon S3 (experimental), on-premises deployment, build automation, reproducible builds, automated testing, integration testing, xUnit, structured logging, diagnostic logging, debugging, regulated software development, GxP, pharmaceutical manufacturing, life sciences software, standard operating procedures (SOPs), technical leadership, Head of Technology, engineering leadership, engineering team leadership, engineering team growth, workforce planning, team growth strategy, skill gap analysis, recruitment, technical recruitment, hiring strategy, job specification development, candidate screening, technical interviews, coding challenges, technical assessments, candidate evaluation, engineer onboarding, knowledge transfer, engineering mentoring, professional development, team workshops, one-on-one meetings (1:1s), conflict resolution, team coordination, engineering culture, engineering standards, organizational integration, post-acquisition integration, requirements management, stakeholder reviews, stakeholder alignment, release management, change management, Definition of Done, delivery process improvement, cross-functional collaboration, augmented reality (AR), virtual reality (VR), industrial AR, interactive 3D, no-code platforms, computer graphics, 3D rendering, physics simulation, ROS 2 (ROS2), humanoid robotics, robot simulation, VR teleoperation, pose retargeting, robot joint control, robot selection, operator demonstration capture, training data collection, conversational AI, large language models (LLMs), LLM integration, OpenAI API, speech-to-text (STT), prompt engineering, prompt templates, prompt chaining, AI-assisted development, AI-assisted software engineering, AI visibility, AI SEO, generative engine optimization (GEO), search engine optimization (SEO), SEO audits, website performance auditing, Google AI Mode, Google Search Console, Google PageSpeed Insights, Ahrefs, Peec AI, Otterly.AI, Apollo.io
