@@ -9,9 +9,11 @@ Munich, Germany • info@stepanstulov.pro • +49 174 269 7778 • LinkedIn: htt
 
 Product engineering lead and hands-on software architect with 15+ years of experience building web applications, enterprise workflow platforms, and real-time interactive systems. Experienced in taking products from early development to production, growing and leading engineering teams, and combining technical direction with hands-on software development.
 
-At Goodly Innovations, helped build OptiworX into a production platform deployed across global pharmaceutical manufacturing facilities, through the company's acquisition by BioNTech. Built and developed the engineering team, including growth strategy, recruitment, onboarding, mentoring, and day-to-day leadership. Subsequently helped guide the team through its transition into BioNTech's larger organization.
+At Goodly Innovations, helped build OptiworX into a production platform deployed across global pharmaceutical manufacturing facilities, through the company's acquisition by BioNTech. Built and developed the engineering team, including growth strategy, recruitment, onboarding, mentoring, and day-to-day leadership. Co-owned product roadmap priorities with the Product Owner and stakeholders, participating in feature ideation, technical planning, prioritization, and delivery. Subsequently helped guide the team through its transition into BioNTech's larger organization.
 
 Broad technical background spanning **C#/.NET**, full-stack web development, distributed application components, industrial AR/VR, robotics, and applied AI. Recent hands-on work includes **React/TypeScript**, **Python**, humanoid robot teleoperation, conversational AI, and LLM-based automation.
+
+**AI-native software engineer** combining conventional engineering fundamentals with AI-assisted development workflows, coding agents, and agent-oriented project practices. Experienced in using AI throughout product development, from exploration and architecture to implementation, debugging, documentation, and iteration, while retaining human ownership of design, quality, and delivery.
 
 Product-oriented and pragmatic, with a preference for technical ownership, effective engineering teams, clear delivery practices, and solutions grounded in real user needs.
 
@@ -19,13 +21,15 @@ Product-oriented and pragmatic, with a preference for technical ownership, effec
 
 ## Core Competencies
 
-- **Engineering Leadership & Team Growth:** team strategy, workforce planning, identifying skill gaps, job specifications, recruitment, candidate screening, technical interviews, coding challenges, onboarding, mentoring
+- **Engineering Leadership & Team Growth:** team growth strategy, workforce planning, identifying skill gaps, job specifications, recruitment, candidate screening, technical interviews, coding challenges, onboarding, mentoring
 - **Team Management & Development:** one-on-ones, engineering workshops, conflict resolution, team coordination, technical guidance, engineering culture, organizational integration
-- **Product Engineering:** end-to-end product development, requirements management, workflow design, role-based applications, roadmap contribution, cross-functional collaboration
+- **Product Strategy & Roadmap:** product roadmap co-ownership, feature ideation, technical prioritization, product-engineering alignment, scope and delivery planning, stakeholder collaboration
+- **Product Engineering:** end-to-end product development, requirements management, workflow design, role-based applications, full-stack implementation, iterative delivery
 - **Software Architecture:** API design, distributed application components, real-time communication, state synchronization, concurrency, workflow engines, system integration
 - **Full-Stack Engineering:** C#/.NET, React/TypeScript, Python, frontend and backend development, data modeling, relational databases
+- **AI-Native Software Engineering:** AI-assisted architecture and implementation, coding agents, agent-oriented development workflows, AGENTS.md, AI-assisted debugging, testing, documentation, human-in-the-loop validation
 - **Engineering Quality & Delivery:** CI/CD, automated testing, reproducible builds, diagnostics, release management, process improvement, regulated software development
-- **Applied AI & Robotics:** conversational AI, LLM integration, AI-assisted software engineering, VR teleoperation, robot control, simulation, physical-system integration
+- **Applied AI & Robotics:** conversational AI, LLM integration, workflow automation, VR teleoperation, robot control, simulation, physical-system integration
 
 ---
 
@@ -36,7 +40,8 @@ Product-oriented and pragmatic, with a preference for technical ownership, effec
 - **Cloud & DevOps:** Docker, GitHub Actions, Azure DevOps, AWS (ECR/ECS/S3 — experimental), Linux, Vercel, Supabase Edge Functions, build automation
 - **Testing & Quality:** xUnit, integration testing, automated pipelines, reproducible builds, structured logging, diagnostics
 - **Languages:** C#, TypeScript, Python, JavaScript, Java, C++, PowerShell, Go (foundational)
-- **AI & Robotics:** OpenAI API, conversational AI, speech-to-text, prompt engineering, workflow automation, ROS2, VR teleoperation
+- **AI-Native Development:** AI coding agents, agent-assisted development, AGENTS.md, prompt engineering, AI-assisted documentation, code generation, debugging and refactoring, AI-supported architecture
+- **Applied AI & Robotics:** OpenAI API, conversational AI, speech-to-text, LLM integration, workflow automation, ROS2, VR teleoperation
 - **Other:** Unity, Godot, Nakama, WPF, Adobe Flash, Adobe AIR, OpenGL
 
 ---
@@ -46,11 +51,12 @@ Product-oriented and pragmatic, with a preference for technical ownership, effec
 - Helped build and lead **OptiworX**, a multi-site, multi-tenant, real-time workflow platform deployed in global pharmaceutical manufacturing facilities, through Goodly Innovations' acquisition by BioNTech.
 - Built and co-hired Goodly's entire engineering team, from team growth planning and job specifications through screening, interviews, coding challenges, onboarding, and continued professional development.
 - Led engineering teams through day-to-day delivery, mentoring, one-on-ones, workshops, and conflict resolution; subsequently helped integrate Goodly's engineering team into BioNTech.
+- Co-owned product roadmap priorities with the Product Owner and stakeholders, contributing to feature ideation, prioritization, technical planning, and delivery.
 - Designed backend services, workflow engines, and real-time communication layers using .NET, gRPC, and SignalR.
-- Established automation, testing, and reproducible build pipelines for GxP-regulated software deployments.
+- Established automation, testing, and reproducible build pipelines for GxP-regulated software deployments, and made extensive use of AI-assisted technical documentation.
 - Co-developed a Python-based hands-free conversational AI assistant for pharmaceutical standard operating procedures.
-- Co-developed low-latency VR teleoperation for humanoid robots, producing demonstrations for downstream model training.
-- Co-built and demonstrated a physiotherapy SaaS MVP for US practices using React, TypeScript, PostgreSQL, and Supabase.
+- Co-developed low-latency VR teleoperation for humanoid robots, producing demonstrations for downstream model training, with extensive use of AI-assisted software development.
+- Co-built and demonstrated a physiotherapy SaaS MVP for US practices using React, TypeScript, PostgreSQL, and Supabase, following an AI-first engineering approach with coding agents and project-level instructions.
 - Improved team responsibilities, requirements intake, and delivery practices as interim Head of Technology for an interactive 3D platform.
 
 ---
@@ -61,18 +67,19 @@ Product-oriented and pragmatic, with a preference for technical ownership, effec
 
 **03.2025 – present | Munich, Germany**
 
-Independent engineering and product development engagements spanning applied AI, full-stack SaaS, robotics, and interim technology leadership.
+Independent engineering and product development engagements spanning applied AI, full-stack SaaS, robotics, and interim technology leadership. Increasing emphasis on AI-native software engineering, using coding agents and AI-assisted workflows for architecture, implementation, debugging, and documentation.
 
 #### AI Visibility (AI SEO / GEO)
 
-Piloted a workflow for auditing local businesses' visibility in AI answers and the sources those answers cite.
+Piloted an AI-first workflow for auditing local businesses' visibility in AI answers and the sources those answers cite.
 
 - Used reusable prompt templates and chaining to transform audit findings into personalized outreach drafts.
 - Combined search, website performance, and AI visibility data for deeper audits and remediation plans.
 - Audited several businesses and delivered recommendations.
+- Developed the tooling and automation using an AI-first engineering approach with coding agents, project-level instructions, and AGENTS.md conventions.
 - Explored repeatable, AI-assisted research and analysis workflows.
 
-**Tech:** OpenAI, Google AI Mode, Google Search Console, PageSpeed Insights, Ahrefs, Peec, Otterly, Apollo
+**Tech:** OpenAI, coding agents, AGENTS.md, Google AI Mode, Google Search Console, PageSpeed Insights, Ahrefs, Peec, Otterly, Apollo
 
 #### Physiotherapy Micro-SaaS
 
@@ -80,10 +87,11 @@ Co-built a web platform for US physiotherapy practices to manage exercise librar
 
 - Developed role-specific dashboards for coaches managing rosters and care plans, members reviewing their progress, and supervisors managing access.
 - Worked across frontend, backend services, data modeling, and deployment.
-- Used AI-assisted engineering for architectural planning and implementation.
+- Followed an AI-first product engineering approach, using coding agents and project-level instructions (AGENTS.md) throughout architectural planning, implementation, debugging, and iteration.
+- Combined AI-assisted implementation with hands-on architecture, integration, and validation.
 - Delivered a working MVP and demonstrated it to multiple practices.
 
-**Tech:** React, TypeScript, Vercel, Supabase, PostgreSQL, Supabase Edge Functions, GitHub, PowerShell, npm
+**Tech:** React, TypeScript, Vercel, Supabase, PostgreSQL, Supabase Edge Functions, GitHub, PowerShell, npm, AI coding agents, AGENTS.md
 
 #### Kinisi — Humanoid Robot Teleoperation
 
@@ -93,9 +101,10 @@ Co-developed VR controls for local and remote operators to demonstrate physical 
 - Worked onsite with the robot and engineering team to align coordinate systems and tune controls.
 - Added support for selecting and exclusively controlling individual robots within a fleet.
 - Iterated from ROS pub/sub through gRPC to UDP for low-latency control.
+- Made extensive use of AI-assisted development for implementation, integration, debugging, and iteration across the software stack.
 - Contributed to a pipeline supplying operator demonstrations for downstream vision-action model training and autonomous tasks.
 
-**Tech:** Unity, C#, .NET, Python, ROS2, gRPC, UDP, Linux, Docker
+**Tech:** Unity, C#, .NET, Python, ROS2, gRPC, UDP, Linux, Docker, AI-assisted development
 
 #### Interim Head of Technology — No-Code Interactive World Builder
 
@@ -119,7 +128,7 @@ Led engineering delivery for a no-code platform for interactive 3D worlds with V
 *Following the acquisition of Goodly Innovations*  
 **10.2023 – 04.2025 | Munich, Germany**
 
-Continued development of OptiworX within BioNTech while helping guide the existing engineering team through integration into a significantly larger organization.
+Continued development of OptiworX within BioNTech while helping guide the existing engineering team through integration into a significantly larger organization. Continued co-owning product and engineering priorities with the Product Owner and stakeholders.
 
 **Team Leadership & Organizational Integration**
 
@@ -127,6 +136,7 @@ Continued development of OptiworX within BioNTech while helping guide the existi
 - Interpreted and communicated newly established organizational expectations while adapting to them alongside the team.
 - Continued technical leadership, mentoring, and cross-functional collaboration during the transition.
 - Maintained continuity of engineering knowledge, product development, and delivery as the team became part of BioNTech.
+- Participated in feature ideation, prioritization, technical planning, and delivery decisions together with the Product Owner and stakeholders.
 
 #### OptiworX
 
@@ -134,9 +144,10 @@ Continued development of OptiworX within BioNTech while helping guide the existi
 - Designed multi-client session workflows and server-side state management.
 - Introduced mixed persistence using relational metadata and object/blob storage.
 - Created automation, diagnostics, and reproducible build pipelines.
+- Made extensive use of AI-assisted workflows for technical and product documentation.
 - Mentored engineers and collaborated with QA and product teams.
 
-**Tech:** .NET, C#, ASP.NET, gRPC, SignalR, SQL, NoSQL, Docker, GitHub Actions, PowerShell, xUnit, LLMs
+**Tech:** .NET, C#, ASP.NET, gRPC, SignalR, SQL, NoSQL, Docker, GitHub Actions, PowerShell, xUnit, LLMs, AI-assisted documentation
 
 #### Hands-Free Conversational AI for Pharmaceutical SOPs
 
@@ -155,7 +166,7 @@ Continued development of OptiworX within BioNTech while helping guide the existi
 
 Helped build OptiworX, an industrial AR-enabled software platform for digital work instructions and pharmaceutical manufacturing workflows, from early product development through deployment in global manufacturing environments.
 
-Combined hands-on engineering and architectural ownership with **Head of Technology responsibilities**, including growing, developing, and leading the engineering team.
+Combined hands-on engineering and architectural ownership with **Head of Technology responsibilities**, including growing, developing, and leading the engineering team, and co-owning product roadmap priorities.
 
 **Engineering Leadership & Team Building**
 
@@ -166,6 +177,14 @@ Combined hands-on engineering and architectural ownership with **Head of Technol
 - Provided ongoing technical mentoring, guidance, and professional development.
 - Led team-wide technical workshops, individual one-on-ones, and conflict resolution.
 - Coordinated engineering work and helped establish effective team responsibilities, collaboration practices, and technical standards.
+
+**Product Roadmap & Technical Direction**
+
+- Co-owned product roadmap priorities with the Product Owner and stakeholders.
+- Participated in feature ideation, product planning, prioritization, and delivery decisions.
+- Represented engineering considerations, including architectural sustainability, technical feasibility, implementation effort, and reliability.
+- Balanced new product capabilities with technical investment, maintainability, and delivery needs.
+- Collaborated across product and engineering to translate manufacturing requirements into practical software solutions.
 
 **Architecture & Product Engineering**
 
@@ -295,4 +314,4 @@ B.Sc. in Computer Engineering (Computer Graphics), 2005–2009
 
 ## Keywords
 
-C#, Python, TypeScript, JavaScript, SQL, PowerShell, Java, C++, ActionScript, Go (Golang, foundational), .NET, ASP.NET, ASP.NET Core, React, WPF (Windows Presentation Foundation), Unity, Godot Engine, Nakama, Adobe Flash, Adobe AIR, OpenGL, iOS, Android, Windows, Linux, Ubuntu, Git, GitHub, npm, Supabase, Supabase Edge Functions, Vercel, PostgreSQL, NoSQL, relational databases, relational data modeling, database transactions, object storage, blob storage, caching, API design, REST APIs, gRPC, SignalR, UDP, real-time networking, publish/subscribe (pub/sub), event-driven architecture, concurrency, state synchronization, server-side state management, multi-client session management, full-stack development, backend development, frontend development, desktop application development, mobile application development, game development, product engineering, software architecture, software as a service (SaaS), multi-tenancy, role-based access control (RBAC), workflow engines, workflow orchestration, workflow automation, rapid prototyping, Docker, containerization, continuous integration and continuous delivery (CI/CD), GitHub Actions, Azure DevOps, Amazon Web Services (AWS, experimental), Amazon Elastic Container Registry (ECR, experimental), Amazon Elastic Container Service (ECS, experimental), Amazon S3 (experimental), on-premises deployment, build automation, reproducible builds, automated testing, integration testing, xUnit, structured logging, diagnostic logging, debugging, regulated software development, GxP, pharmaceutical manufacturing, life sciences software, standard operating procedures (SOPs), technical leadership, Head of Technology, engineering leadership, engineering team leadership, engineering team growth, workforce planning, team growth strategy, skill gap analysis, recruitment, technical recruitment, hiring strategy, job specification development, candidate screening, technical interviews, coding challenges, technical assessments, candidate evaluation, engineer onboarding, knowledge transfer, engineering mentoring, professional development, team workshops, one-on-one meetings (1:1s), conflict resolution, team coordination, engineering culture, engineering standards, organizational integration, post-acquisition integration, requirements management, stakeholder reviews, stakeholder alignment, release management, change management, Definition of Done, delivery process improvement, cross-functional collaboration, augmented reality (AR), virtual reality (VR), industrial AR, interactive 3D, no-code platforms, computer graphics, 3D rendering, physics simulation, ROS 2 (ROS2), humanoid robotics, robot simulation, VR teleoperation, pose retargeting, robot joint control, robot selection, operator demonstration capture, training data collection, conversational AI, large language models (LLMs), LLM integration, OpenAI API, speech-to-text (STT), prompt engineering, prompt templates, prompt chaining, AI-assisted development, AI-assisted software engineering, AI visibility, AI SEO, generative engine optimization (GEO), search engine optimization (SEO), SEO audits, website performance auditing, Google AI Mode, Google Search Console, Google PageSpeed Insights, Ahrefs, Peec AI, Otterly.AI, Apollo.io
+C#, Python, TypeScript, JavaScript, SQL, PowerShell, Java, C++, ActionScript, Go (Golang, foundational), .NET, ASP.NET, ASP.NET Core, React, WPF (Windows Presentation Foundation), Unity, Godot Engine, Nakama, Adobe Flash, Adobe AIR, OpenGL, iOS, Android, Windows, Linux, Ubuntu, Git, GitHub, npm, Supabase, Supabase Edge Functions, Vercel, PostgreSQL, NoSQL, relational databases, relational data modeling, database transactions, object storage, blob storage, caching, API design, REST APIs, gRPC, SignalR, UDP, real-time networking, publish/subscribe (pub/sub), event-driven architecture, concurrency, state synchronization, server-side state management, multi-client session management, full-stack development, backend development, frontend development, desktop application development, mobile application development, game development, product engineering, software architecture, software as a service (SaaS), multi-tenancy, role-based access control (RBAC), workflow engines, workflow orchestration, workflow automation, rapid prototyping, Docker, containerization, continuous integration and continuous delivery (CI/CD), GitHub Actions, Azure DevOps, Amazon Web Services (AWS, experimental), Amazon Elastic Container Registry (ECR, experimental), Amazon Elastic Container Service (ECS, experimental), Amazon S3 (experimental), on-premises deployment, build automation, reproducible builds, automated testing, integration testing, xUnit, structured logging, diagnostic logging, debugging, regulated software development, GxP, pharmaceutical manufacturing, life sciences software, standard operating procedures (SOPs), technical leadership, Head of Technology, engineering leadership, engineering team leadership, engineering team growth, workforce planning, team growth strategy, skill gap analysis, recruitment, technical recruitment, hiring strategy, job specification development, candidate screening, technical interviews, coding challenges, technical assessments, candidate evaluation, engineer onboarding, knowledge transfer, engineering mentoring, professional development, team workshops, one-on-one meetings (1:1s), conflict resolution, team coordination, engineering culture, engineering standards, organizational integration, post-acquisition integration, requirements management, stakeholder reviews, stakeholder alignment, product roadmap co-ownership, product roadmap planning, feature ideation, feature prioritization, technical prioritization, product-engineering alignment, technical feasibility assessment, scope planning, technical tradeoffs, product delivery, release management, change management, Definition of Done, delivery process improvement, cross-functional collaboration, augmented reality (AR), virtual reality (VR), industrial AR, interactive 3D, no-code platforms, computer graphics, 3D rendering, physics simulation, ROS 2 (ROS2), humanoid robotics, robot simulation, VR teleoperation, pose retargeting, robot joint control, robot selection, operator demonstration capture, training data collection, conversational AI, large language models (LLMs), LLM integration, OpenAI API, speech-to-text (STT), prompt engineering, prompt templates, prompt chaining, AI-assisted development, AI-assisted software engineering, AI-native software engineering, AI-first product engineering, AI coding agents, agent-assisted development, agentic coding workflows, AGENTS.md, project-level agent instructions, AI-assisted architecture, AI-assisted implementation, AI-assisted debugging, AI-assisted refactoring, AI-assisted testing, AI-assisted documentation, code generation, human-in-the-loop validation, AI visibility, AI SEO, generative engine optimization (GEO), search engine optimization (SEO), SEO audits, website performance auditing, Google AI Mode, Google Search Console, Google PageSpeed Insights, Ahrefs, Peec AI, Otterly.AI, Apollo.io
