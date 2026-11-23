@@ -7,57 +7,24 @@ Munich, Germany • info@stepanstulov.pro • +49 174 269 7778 • LinkedIn: htt
 
 ## Professional Summary
 
-Product engineering lead and hands-on software architect with 15+ years of experience building web applications, enterprise workflow platforms, and real-time interactive systems. Experienced in taking products from early development to production, growing and leading engineering teams, and combining technical direction with hands-on software development.
+Product engineering lead and hands-on software architect with 15+ years of experience building web applications, enterprise workflow platforms, and real-time interactive systems. As Goodly Innovations' founding engineer and later engineering lead, took OptiworX from inception to production in global pharmaceutical manufacturing and guided the engineering team through integration into BioNTech after the acquisition.
 
-As the founding engineer and subsequent engineering lead at Goodly Innovations, drove the development of OptiworX from inception into a production platform deployed across global pharmaceutical manufacturing facilities, through the company's acquisition by BioNTech. Built and developed the engineering team, including growth strategy, recruitment, onboarding, mentoring, and day-to-day leadership. Established the engineering software development lifecycle (SDLC). Co-owned product roadmap priorities with the Product Owner and stakeholders, participating in feature ideation, technical planning, prioritization, and delivery. Subsequently guided the team through its transition into BioNTech's larger organization.
-
-Broad technical background spanning **C#/.NET**, full-stack web development, backend services and networked applications, industrial AR/VR, robotics, and applied AI. Recent hands-on work includes **React/TypeScript**, **Python**, humanoid robot teleoperation, conversational AI, and LLM-based automation.
-
-**AI-native software engineer** combining conventional engineering fundamentals with AI-assisted development workflows, coding agents, and agent-oriented project practices. Experienced in using AI throughout product development, from exploration and architecture to implementation, debugging, documentation, and iteration, while retaining human ownership of design, quality, and delivery.
-
-Product-oriented and pragmatic, with a preference for technical ownership, effective engineering teams, clear delivery practices, and solutions grounded in real user needs.
+Broad technical background in C#/.NET, full-stack web development, backend services, networked applications, and industrial AR/VR. Recent hands-on work includes React/TypeScript, Python, humanoid robot teleoperation, conversational AI, and LLM-based automation. Uses AI coding agents throughout product development while retaining ownership of design, quality, and delivery.
 
 ---
 
-## Core Competencies
+## Skills & Competencies
 
-- **Engineering Leadership & Team Growth:** team growth strategy, workforce planning, identifying skill gaps, job specifications, recruitment, candidate screening, technical interviews, coding challenges, onboarding, mentoring
-- **Team Management & Development:** one-on-ones, engineering workshops, conflict resolution, team coordination, technical guidance, engineering culture, organizational integration
-- **Product Strategy & Roadmap:** product roadmap co-ownership, feature ideation, technical prioritization, product-engineering alignment, scope and delivery planning, stakeholder collaboration
-- **Product Engineering:** end-to-end product development, requirements management, workflow design, role-based applications, full-stack implementation, iterative delivery
-- **Software Architecture:** API design, backend services, real-time communication, state synchronization, concurrency, workflow engines, system integration
-- **Full-Stack Engineering:** C#/.NET, React/TypeScript, Python, frontend and backend development, data modeling, relational databases
-- **AI-Native Software Engineering:** AI-assisted architecture and implementation, coding agents, agent-oriented development workflows, AGENTS.md, AI-assisted debugging, testing, documentation, human-in-the-loop validation
-- **Engineering Quality & Delivery:** CI/CD, automated testing, reproducible builds, diagnostics, release management, process improvement, regulated software development
-- **Applied AI & Robotics:** conversational AI, LLM integration, workflow automation, VR teleoperation, robot control, simulation, physical-system integration
-
----
-
-## Technical Skills
-
-- **Application Engineering:** C#, .NET, ASP.NET, React, TypeScript, REST, gRPC, SignalR, UDP, messaging, event-driven design, concurrency
+- **Engineering Leadership:** team growth strategy, workforce planning, skill gap analysis, job specifications, recruitment, candidate screening, technical interviews, coding challenges, onboarding, mentoring, one-on-ones, engineering workshops, conflict resolution, team coordination, technical guidance, engineering culture, organizational integration
+- **Product Strategy & Engineering:** roadmap co-ownership, feature ideation, technical prioritization, product-engineering alignment, scope and delivery planning, stakeholder collaboration, requirements management, workflow design, role-based applications, end-to-end product development, iterative delivery
+- **Application Engineering & Architecture:** C#/.NET, ASP.NET, React/TypeScript, full-stack implementation, backend services, API design, REST, gRPC, SignalR, UDP, real-time communication, messaging, event-driven design, state synchronization, concurrency, workflow engines, system integration
 - **Data & Storage:** SQL, PostgreSQL, relational databases, data modeling, transactions, caching principles, object/blob storage
-- **Cloud & DevOps:** Docker, GitHub Actions, Azure DevOps, AWS (ECR/ECS/S3 — experimental), Linux, Vercel, Supabase Edge Functions, build automation
-- **Testing & Quality:** xUnit, integration testing, automated pipelines, reproducible builds, structured logging, diagnostics
-- **Languages:** C#, TypeScript, Python, JavaScript, Java, C++, PowerShell, Go (foundational)
-- **AI-Native Development:** AI coding agents, agent-assisted development, AGENTS.md, prompt engineering, AI-assisted documentation, code generation, debugging and refactoring, AI-supported architecture
-- **Applied AI & Robotics:** OpenAI API, conversational AI, speech-to-text, LLM integration, workflow automation, ROS2, VR teleoperation
-- **Other:** Unity, Godot, Nakama, WPF, Adobe Flash, Adobe AIR, OpenGL
-
----
-
-## Selected Achievements
-
-- As founding engineer and subsequent engineering lead, built and led the development of **OptiworX**, a multi-site, multi-tenant, real-time workflow platform deployed in global pharmaceutical manufacturing facilities, through Goodly Innovations' acquisition by BioNTech.
-- Built and co-hired Goodly's entire engineering team, from team growth planning and job specifications through screening, interviews, coding challenges, onboarding, and continued professional development.
-- Led engineering teams through day-to-day delivery, mentoring, one-on-ones, workshops, and conflict resolution; subsequently helped integrate Goodly's engineering team into BioNTech.
-- Co-owned product roadmap priorities with the Product Owner and stakeholders, contributing to feature ideation, prioritization, technical planning, and delivery.
-- Designed backend services, workflow engines, and real-time communication layers using .NET, gRPC, and SignalR.
-- Established the engineering SDLC, including automation, testing, and reproducible build pipelines for GxP-regulated software deployments, and made extensive use of AI-assisted technical documentation.
-- Co-developed a Python-based hands-free conversational AI assistant for pharmaceutical standard operating procedures.
-- Co-developed low-latency VR teleoperation for humanoid robots, producing demonstrations for downstream model training, with extensive use of AI-assisted software development.
-- Co-built and demonstrated a physiotherapy SaaS MVP for US practices using React, TypeScript, PostgreSQL, and Supabase, following an AI-first engineering approach with coding agents and project-level instructions.
-- Improved team responsibilities, requirements intake, and delivery practices as interim Head of Technology for an interactive 3D platform.
+- **Cloud & Delivery:** Docker, GitHub Actions, Azure DevOps, AWS (ECR/ECS/S3 - experimental), Linux, Vercel, Supabase Edge Functions, CI/CD, build automation, reproducible builds, release management, process improvement, regulated software development
+- **Testing & Diagnostics:** xUnit, automated testing, integration testing, structured logging, diagnostics
+- **Additional Languages:** Python, JavaScript, Java, C++, PowerShell, Go (foundational)
+- **AI-Native Software Engineering:** coding agents, agent-assisted development workflows, AGENTS.md, prompt engineering, AI-assisted exploration, architecture, implementation, code generation, debugging, refactoring, testing, documentation, iteration, human-in-the-loop validation
+- **Applied AI & Robotics:** OpenAI API, conversational AI, speech-to-text, LLM integration, workflow automation, ROS2, VR teleoperation, robot control, simulation, physical-system integration
+- **Other Technologies:** Unity, Godot, Nakama, WPF, Adobe Flash, Adobe AIR, OpenGL
 
 ---
 
@@ -164,7 +131,7 @@ Continued leading the engineering development of OptiworX within BioNTech while 
 *Acquired by BioNTech*  
 **01.2018 – 09.2023 | Munich, Germany**
 
-As founding engineer and subsequent engineering lead, built and led the development of OptiworX, an industrial AR-enabled software platform for digital work instructions and pharmaceutical manufacturing workflows, from inception through deployment in global manufacturing environments.
+As founding engineer and subsequent engineering lead, built and led the development of OptiworX, a multi-site, multi-tenant, real-time workflow platform for digital work instructions and pharmaceutical manufacturing workflows with industrial AR support, from inception through deployment in global manufacturing environments.
 
 Combined hands-on engineering and architectural ownership with **Head of Technology responsibilities**, including growing, developing, and leading the engineering team, establishing the engineering SDLC, and co-owning product roadmap priorities.
 
