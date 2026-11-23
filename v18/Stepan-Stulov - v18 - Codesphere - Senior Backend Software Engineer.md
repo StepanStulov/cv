@@ -1,5 +1,5 @@
 
-# Stepan Stulov — Senior .NET Software Engineer | Technical Architect
+# Stepan Stulov — Senior Backend Software Engineer | Product & Platform Engineering
 
 Munich, Germany • info@stepanstulov.pro • +49 174 269 7778 • LinkedIn: https://www.linkedin.com/in/stepanstulov/
 
@@ -7,127 +7,132 @@ Munich, Germany • info@stepanstulov.pro • +49 174 269 7778 • LinkedIn: htt
 
 ## Professional Summary
 
-Senior software engineer and hands-on technical architect with **15+ years of experience** designing, developing, and delivering complex business applications, enterprise workflow platforms, and domain-specific software. Strong background in **C#/.NET, ASP.NET, software architecture, relational databases, API development, and CI/CD**, combining deep implementation experience with technical leadership and product ownership.
+Senior backend software engineer and hands-on software architect with **15+ years of experience** designing, building, and operating complex software products and enterprise platforms. Strong background in **backend engineering, API design, SQL/NoSQL databases, real-time communication, containerization, and CI/CD**, combined with recent hands-on **TypeScript, React, and PostgreSQL** development and foundational **Go** knowledge.
 
-As the founding engineer and subsequent engineering lead at **Goodly Innovations and BioNTech**, drove the development of **OptiworX** from inception into a production software platform for pharmaceutical manufacturing workflows, deployed across global facilities in a GxP-regulated environment. Designed core backend services, workflow engines, real-time communication, and persistence architecture. Built the engineering team and established the software development lifecycle, development tooling, automated testing, build pipelines, and reliable deployment processes.
+As the **founding engineer and subsequent engineering lead** at Goodly Innovations, drove the development of **OptiworX** from inception into a production enterprise platform deployed across global pharmaceutical manufacturing facilities, through the company's acquisition by BioNTech. Owned core backend architecture, API design, data persistence, and engineering delivery. Built the engineering team and established its software development lifecycle, including development tooling, automated testing, CI/CD, diagnostics, and release processes.
 
-Experienced in **technical requirements analysis, architecture design, dependency evaluation, and translating business requirements into working software**. Co-owned product roadmap priorities with Product Owners and stakeholders, balancing functional requirements, technical feasibility, maintainability, and delivery capacity. Built and led engineering teams while remaining actively involved in architecture and implementation.
+Experienced in **owning complex features end to end**, from requirements discovery and technical design through implementation, integration, testing, deployment, and maintenance. Co-owned product roadmap priorities with Product Owners and stakeholders, balancing user needs, technical tradeoffs, reliability, and maintainability. Led and mentored engineering teams while remaining deeply involved in hands-on software development.
 
-Broad technical experience spanning **.NET backend development, Blazor, React/TypeScript, SQL, Docker, Azure DevOps, GitHub Actions, and distributed application components**. Comfortable working across unfamiliar systems, evaluating technical alternatives, improving development environments, and taking responsibility for complete features from design through testing and release.
+Recent work spans **TypeScript-based SaaS development, Python, AI automation, robotics, and real-time systems**. Practical experience with Docker, Linux, GitHub Actions, Azure DevOps, and cloud deployment tooling, with an interest in developer infrastructure, deployment technology, and cloud platform engineering.
 
-**AI-native software engineer** actively integrating AI coding agents and LLM-assisted workflows into professional development. Uses AI throughout requirements exploration, technical design, implementation, debugging, testing, documentation, and code review, while retaining engineering responsibility for correctness, maintainability, and delivery.
+**AI-native software engineer** using coding agents and LLM-assisted development workflows across architecture, implementation, debugging, testing, and documentation. Combines modern development tools with strong software engineering fundamentals, structured problem-solving, technical ownership, and a collaborative approach to engineering.
 
 ---
 
 ## Core Competencies
 
-- **C#/.NET Software Engineering:** ASP.NET, ASP.NET Core, backend services, Blazor applications, REST APIs, gRPC, SignalR, concurrent programming, application integration
-- **Software Architecture & Technical Design:** architectural decomposition, modular systems, distributed components, workflow engines, state management, technical dependency analysis, design tradeoffs
-- **Requirements Engineering & Product Delivery:** functional and technical requirements analysis, user stories, acceptance criteria, feature specification, implementation planning, iterative product development
-- **Technical Roadmaps & Platform Evolution:** roadmap co-ownership, architectural planning, technical debt management, maintainability, feasibility analysis, prioritization, incremental modernization
-- **Databases & Data Modeling:** relational database design, SQL, PostgreSQL, transactions, persistence architecture, object storage, data access patterns
-- **DevOps & Development Infrastructure:** CI/CD, automated builds, build and release pipelines, Docker, Azure DevOps, GitHub Actions, development environment optimization
-- **Testing & Engineering Quality:** xUnit, automated testing, integration testing, diagnostics, debugging, reproducible builds, release validation, regulated software delivery
-- **Technical Documentation:** architecture documentation, implementation specifications, development guidelines, knowledge transfer, AI-assisted documentation
-- **AI-Assisted Software Engineering:** AI coding agents, agent-oriented workflows, AI-supported implementation, debugging, test generation, documentation, human validation
-- **Engineering Leadership & Collaboration:** technical mentoring, engineering standards, stakeholder alignment, cross-functional collaboration, team coordination, technical interviews, onboarding
+- **Backend Engineering:** backend services, API design, service-oriented architecture, concurrency, event-driven communication, state synchronization, real-time systems
+- **Software Architecture & System Design:** architectural decomposition, technical design, scalability considerations, persistence architecture, integration patterns, technical tradeoffs, system reliability
+- **End-to-End Feature Ownership:** product discovery, requirements analysis, technical planning, implementation, integration, automated testing, deployment, maintenance
+- **Languages & Full-Stack Engineering:** C#/.NET, TypeScript, JavaScript, React, Python, Go fundamentals, frontend/backend integration, full-stack product development
+- **Databases & Persistence:** SQL, PostgreSQL, relational data modeling, NoSQL, transactions, database-backed applications, object/blob storage
+- **DevOps & Developer Experience:** Docker, CI/CD, development environment improvement, build automation, reproducible builds, deployment workflows, engineering tooling
+- **Testing, Diagnostics & Reliability:** automated testing, integration testing, structured logging, diagnostics, debugging, production troubleshooting, regulated software delivery
+- **Engineering Leadership & Mentoring:** technical leadership, engineering team building, technical guidance, design discussions, mentoring, onboarding, engineering standards, knowledge sharing
+- **Product Engineering & Technical Roadmaps:** roadmap co-ownership, stakeholder collaboration, feature prioritization, architectural sustainability, iterative delivery
+- **AI-Native Engineering:** AI coding agents, agent-oriented development workflows, AI-assisted architecture, implementation, testing, debugging, documentation, human-in-the-loop validation
 
 ---
 
 ## Technical Skills
 
-- **Primary Stack:** C#, .NET, ASP.NET, ASP.NET Core, SQL, REST, gRPC, SignalR
-- **Application Development:** Blazor, React, TypeScript, JavaScript, Python, WPF, full-stack web applications, backend services
-- **Data & Persistence:** PostgreSQL, SQL, relational databases, NoSQL, data modeling, transactions, blob/object storage
-- **Architecture & Integration:** API design, distributed application components, event-driven architecture, publish/subscribe, real-time communication, concurrency, state synchronization, multi-client applications
-- **DevOps & Infrastructure:** Azure DevOps, GitHub Actions, Docker, Linux, Windows, Git, PowerShell, CI/CD, automated build and deployment pipelines, reproducible builds
-- **Cloud Platforms:** Azure ecosystem familiarity; AWS ECR/ECS/S3 (experimental), Vercel, Supabase, Supabase Edge Functions
-- **Testing & Diagnostics:** xUnit, automated unit and integration testing, structured logging, diagnostic tooling, debugging, release verification
-- **Languages:** C# (primary), TypeScript, JavaScript, Python, SQL, PowerShell, C++, Java (academic foundations), Go (foundational)
-- **AI-Native Development:** AI coding agents, agent-assisted development, AGENTS.md, LLM-assisted architecture, implementation, testing, refactoring, documentation, prompt engineering, human-in-the-loop validation
-- **Applied AI:** OpenAI API, conversational AI, speech-to-text, LLM integration, workflow automation
-- **Additional Technologies:** Unity, ROS2, UDP, VR teleoperation, Godot, Nakama, computer graphics
+- **Languages:** C# (primary, extensive professional experience), TypeScript, JavaScript, Python, SQL, PowerShell, Go (foundational, independent practice), C++, Java
+- **Backend & APIs:** .NET, ASP.NET, ASP.NET Core, REST APIs, gRPC, SignalR, Supabase Edge Functions, API design, service integration
+- **Frontend:** React, TypeScript, JavaScript, role-based web applications, full-stack application development
+- **Networking & Real-Time Systems:** event-driven architecture, publish/subscribe, messaging, concurrency, UDP, real-time networking, multi-client session management, server-side state synchronization
+- **Databases & Storage:** PostgreSQL, SQL, relational databases, NoSQL, data modeling, transactions, relational metadata, object/blob storage
+- **Containers & Infrastructure:** Docker, Linux, Ubuntu, Windows, containerized development, on-premises deployments
+- **Cloud & Deployment:** Azure DevOps, GitHub Actions, Vercel, Supabase, AWS (ECR/ECS/S3 — experimental), build and deployment automation
+- **DevOps & Engineering Tooling:** Git, GitHub, CI/CD, PowerShell, npm, reproducible builds, release automation, development environment optimization
+- **Testing & Observability:** xUnit, integration testing, automated pipelines, structured logging, diagnostic tooling, debugging
+- **AI-Native Development:** AI coding agents, agent-assisted development, AGENTS.md, prompt engineering, AI-assisted architecture, implementation, refactoring, testing, and documentation
+- **Applied AI & Robotics:** OpenAI API, conversational AI, speech-to-text, LLM integration, ROS2, VR teleoperation
+- **Additional Technologies:** Unity, Godot, Nakama, WPF, Adobe Flash, Adobe AIR, OpenGL
 
 ---
 
 ## Selected Achievements
 
-- **Enterprise Software Delivery:** As founding engineer and subsequent engineering lead, built and led the development of OptiworX, a multi-site, multi-tenant workflow platform deployed in pharmaceutical manufacturing environments worldwide, through Goodly Innovations' acquisition by BioNTech.
-- **Backend & Application Architecture:** Designed and implemented core C#/.NET services, workflow engines, gRPC/REST interfaces, real-time synchronization, session management, and SQL-backed persistence components.
-- **Technical Roadmap & Requirements:** Co-owned product roadmap priorities with Product Owners and stakeholders, translating manufacturing requirements into technical solutions, assessing implementation tradeoffs, and planning product increments.
-- **DevOps & CI/CD:** Established the engineering SDLC, including automated build, testing, diagnostics, and release pipelines supporting reproducible deployments and software quality in GxP-regulated environments.
-- **Development Environment Improvements:** Introduced engineering tooling, automation, development standards, and delivery practices that improved reproducibility, maintainability, and release reliability.
-- **Engineering Leadership:** Built and co-hired Goodly's engineering team, led technical development and mentoring, and helped integrate the team into BioNTech after acquisition.
-- **Technical Documentation:** Produced and maintained engineering documentation, architecture knowledge, and development guidance, increasingly using AI-assisted documentation workflows.
-- **Applied AI:** Co-developed a Python-based conversational AI assistant for pharmaceutical standard operating procedures, integrating speech-to-text, contextual prompts, and the OpenAI API.
-- **Full-Stack Product Development:** Co-built and delivered a physiotherapy SaaS MVP using React, TypeScript, PostgreSQL, Supabase, and AI-first development workflows.
-- **Cross-Stack Integration:** Co-developed real-time humanoid robot teleoperation components using C#, .NET, Python, gRPC, UDP, ROS2, and Docker.
+- **Founding Engineer & Platform Ownership:** Built and led the development of **OptiworX** from inception into a multi-site, multi-tenant enterprise platform deployed across global pharmaceutical manufacturing facilities, through Goodly Innovations' acquisition by BioNTech.
+- **Backend Architecture:** Designed and implemented core backend services, workflow engines, REST/gRPC APIs, real-time synchronization, multi-client session management, and SQL/NoSQL-backed persistence using C#/.NET.
+- **End-to-End Product Engineering:** Owned technical delivery across architecture, implementation, integration, testing, deployment, and maintenance, while co-owning product roadmap priorities with stakeholders.
+- **DevOps & Developer Experience:** Established the engineering SDLC, including CI/CD, automated testing, diagnostics, reproducible builds, deployment automation, and engineering tooling for reliable delivery in regulated production environments.
+- **Engineering Leadership & Mentoring:** Built and co-hired Goodly's engineering team, established technical standards and development practices, mentored engineers, and guided the team through integration into BioNTech.
+- **Full-Stack TypeScript Development:** Co-built a physiotherapy SaaS MVP using **React, TypeScript, PostgreSQL, Supabase, and Edge Functions**, developing role-specific applications, backend integrations, and deployment workflows.
+- **Real-Time Systems:** Co-developed low-latency humanoid robot teleoperation using C#, .NET, Python, ROS2, gRPC, UDP, and Docker, including exclusive control of individual robots within a fleet.
+- **Applied AI & Automation:** Co-developed a Python-based conversational AI assistant for pharmaceutical procedures and built AI-first auditing workflows using coding agents and reusable automation.
+- **Engineering Process Improvement:** As interim Head of Technology, improved requirements intake, engineering responsibilities, release workflows, and delivery practices for an interactive software platform.
 
 ---
 
 ## Professional Experience
 
-### Independent Software Engineer — Product Engineering & Technical Architecture
+### Independent Software Engineer — Backend, Product & Platform Engineering
 
 **03.2025 – present | Munich, Germany**
 
-Independent software engineering and product development engagements across enterprise applications, full-stack SaaS, applied AI, robotics, and interim technology leadership.
+Independent software engineering and product development engagements spanning full-stack SaaS, backend integrations, real-time systems, applied AI, and interim technology leadership.
 
-Combines hands-on implementation, technical architecture, requirements analysis, and delivery ownership. Extensive use of AI-assisted development workflows to accelerate implementation, debugging, integration, and documentation while maintaining conventional engineering quality standards.
+Hands-on work across application architecture, implementation, integrations, development infrastructure, debugging, and deployment. Increasing emphasis on AI-native engineering workflows and efficient delivery of complete product functionality.
 
 #### AI Visibility — AI-Assisted Research & Automation
 
-Developed and piloted AI-first workflows for auditing businesses' visibility in AI-generated answers and identifying opportunities for improvement.
+Developed and piloted AI-first workflows for auditing local businesses' visibility in AI-generated answers and analyzing the sources those answers cite.
 
-- Designed structured workflows combining multiple information sources, AI-generated analysis, and reusable prompt templates.
-- Built repeatable processes for collecting, evaluating, and transforming technical findings into actionable recommendations.
-- Integrated search visibility, website performance, and AI visibility data into consolidated audit workflows.
-- Used coding agents and project-level AGENTS.md instructions for implementation, debugging, documentation, and iterative improvement.
-- Conducted audits for several businesses and delivered technical recommendations.
+- Designed repeatable workflows combining structured data collection, external information sources, and AI-assisted analysis.
+- Developed automation using reusable prompt templates, chaining, and structured processing of findings.
+- Combined search performance, website diagnostics, and AI visibility data into consolidated technical audits.
+- Used coding agents and project-level AGENTS.md instructions to implement, debug, document, and improve automation workflows.
+- Conducted audits for several businesses and delivered actionable recommendations.
+- Explored scalable, repeatable approaches to AI-assisted research and workflow automation.
 
 **Tech:** OpenAI, AI coding agents, AGENTS.md, Google Search Console, PageSpeed Insights, Ahrefs, Peec, Otterly, Apollo
 
-#### Physiotherapy Micro-SaaS — Full-Stack Application Development
+#### Physiotherapy Micro-SaaS — TypeScript Full-Stack Development
 
-Co-built a web-based software platform for US physiotherapy practices, covering exercise libraries, patient care plans, wellbeing, progress tracking, and role-specific administration.
+Co-built a web-based SaaS platform for US physiotherapy practices, covering exercise libraries, patient care plans, wellbeing, progress tracking, and role-specific administration.
 
-- Developed application features across React/TypeScript frontend components, backend services, and PostgreSQL persistence.
-- Designed role-specific workflows and dashboards for healthcare professionals, patients, and supervisors.
-- Worked on application architecture, requirements interpretation, data modeling, access control, and deployment.
-- Integrated frontend, backend, and data services into a working SaaS application.
-- Applied AI-first engineering practices using coding agents, project instructions, and human validation.
+- Developed application features using **React, TypeScript, PostgreSQL, and Supabase**.
+- Worked across frontend components, backend services, data modeling, and deployment.
+- Designed role-specific dashboards and workflows for healthcare professionals, patients, and supervisors.
+- Developed application functionality involving user roles, care-plan management, access administration, and persistent application data.
+- Integrated frontend, backend, database, and Edge Functions into a working application.
+- Established and used development workflows involving GitHub, npm, Supabase, and Vercel.
+- Followed an AI-first engineering approach using coding agents and project-level instructions (AGENTS.md) for architecture, implementation, debugging, and iteration.
 - Delivered a functional MVP and demonstrated it to multiple practices.
 
-**Tech:** React, TypeScript, PostgreSQL, Supabase, Supabase Edge Functions, Vercel, GitHub, PowerShell, npm, AI coding agents, AGENTS.md
+**Tech:** React, TypeScript, JavaScript, PostgreSQL, Supabase, Supabase Edge Functions, Vercel, GitHub, PowerShell, npm, AI coding agents, AGENTS.md
 
-#### Kinisi — Humanoid Robot Teleoperation
+#### Kinisi — Humanoid Robot Teleoperation & Real-Time Systems
 
 Co-developed software enabling local and remote VR operators to control humanoid robots and produce physical-task demonstrations for downstream AI model training.
 
-- Implemented Unity/C# interaction components, .NET networking, and simulation integration.
-- Developed and integrated Python-based pose retargeting for robot joint control.
-- Designed communication across several system components using ROS2, gRPC, and UDP.
-- Added mechanisms for selecting and exclusively controlling individual robots within a fleet.
-- Investigated communication latency, coordinate-system alignment, and integration issues across software and hardware boundaries.
-- Worked directly with the robotics engineering team to validate and refine the integrated system.
-- Used AI-assisted development extensively across implementation, integration, diagnostics, and debugging.
+- Built Unity/C# interaction components, **.NET networking**, simulation integration, and Python-based pose retargeting.
+- Designed and integrated communication between operator applications, robot control components, and the simulation environment.
+- Iterated from ROS publish/subscribe through gRPC to UDP to address low-latency communication requirements.
+- Implemented mechanisms for selecting and exclusively controlling individual robots within a fleet.
+- Worked across multiple processes and components running on Windows and Linux-based environments.
+- Investigated synchronization, coordinate-system alignment, networking, and integration issues across software and physical hardware.
+- Worked directly with the robotics engineering team to validate system behavior and refine controls.
+- Used AI-assisted development extensively for implementation, integration, diagnostics, and debugging.
+- Contributed to a pipeline capturing operator demonstrations for downstream vision-action model training.
 
 **Tech:** C#, .NET, Unity, Python, ROS2, gRPC, UDP, Linux, Docker, AI-assisted development
 
 #### Interim Head of Technology — No-Code Interactive World Builder
 
-Provided technical and engineering leadership for a platform supporting the creation and deployment of interactive 3D environments.
+Led engineering delivery for a no-code platform for creating and deploying interactive 3D environments with VR support.
 
-- Analyzed existing development processes, responsibilities, and delivery bottlenecks.
-- Clarified engineering ownership and improved coordination between technical and product stakeholders.
+- Analyzed engineering processes, development practices, and delivery bottlenecks.
+- Clarified technical responsibilities, ownership, and collaboration between engineers and product stakeholders.
 - Improved requirements intake, feature planning, and stakeholder review processes.
-- Simplified branching strategies and deployment environments, distinguishing demonstration builds from production releases.
-- Introduced a Definition of Done to clarify feature completeness and acceptance.
-- Reduced parallel work and strengthened focus on completing and releasing product increments.
+- Simplified Git branching and deployment targets to distinguish demonstration builds from production releases.
+- Introduced a Definition of Done to clarify feature completion and deployment readiness.
+- Reduced parallel work and strengthened the team's ability to finish and release product increments.
 
 **Tech:** Godot, Nakama, Git, CI/CD
 
-**Additional technical work:** Experimental AWS deployments, Docker containerization, and build automation using GitHub Actions.
+**Additional technical work:** Experimental AWS deployments using ECR/ECS/S3, Docker containerization, and build automation with GitHub Actions.
 
 ---
 
@@ -136,103 +141,109 @@ Provided technical and engineering leadership for a platform supporting the crea
 *Following the acquisition of Goodly Innovations*  
 **10.2023 – 04.2025 | Munich, Germany**
 
-Continued leading the development and technical ownership of OptiworX within BioNTech, while guiding the existing engineering team and its development processes through integration into a substantially larger organization.
+Continued leading the engineering development of **OptiworX** within BioNTech, maintaining architectural continuity, technical ownership, and production delivery while guiding the engineering team through integration into a significantly larger organization.
 
-Combined hands-on .NET engineering and architecture with product planning, engineering quality, team leadership, and cross-functional coordination.
+Combined hands-on backend development and system architecture with engineering leadership, technical planning, product collaboration, and improvements to development and delivery workflows.
 
-#### Enterprise Application Development — OptiworX
+#### OptiworX — Backend & Platform Engineering
 
 - Developed and maintained backend services using **C#, .NET, ASP.NET, gRPC, and SignalR**.
-- Designed and implemented multi-client session workflows, application state management, and synchronization mechanisms.
+- Designed and implemented multi-client session workflows, server-side state management, and real-time synchronization.
 - Extended persistence architecture combining relational database metadata with object/blob storage.
-- Analyzed technical requirements and evaluated architectural alternatives for evolving platform capabilities.
-- Participated in feature ideation, prioritization, and technical planning with the Product Owner and stakeholders.
-- Developed automation and diagnostics tooling to support implementation, troubleshooting, and maintenance.
-- Improved automated builds, CI/CD processes, and reproducibility across the development and delivery workflow.
-- Collaborated with QA engineers on testing, issue investigation, and release quality.
-- Produced technical and product documentation with extensive use of AI-assisted workflows.
-- Mentored engineers and supported continuity of architectural knowledge and technical standards.
+- Worked on backend component integration and communication across application clients.
+- Analyzed technical requirements, evaluated architectural alternatives, and planned implementation of new capabilities.
+- Built automation and diagnostics tooling supporting engineering productivity, troubleshooting, and maintenance.
+- Created and improved automated builds, CI/CD pipelines, and reproducible build processes.
+- Collaborated with QA engineers on testing, debugging, issue investigation, and release quality.
+- Made extensive use of AI-assisted development workflows for technical and product documentation.
+- Maintained hands-on ownership of technically critical backend components.
+- Mentored engineers and supported technical decision-making across the team.
 
-**Tech:** C#, .NET, ASP.NET, gRPC, SignalR, SQL, NoSQL, Docker, GitHub Actions, PowerShell, xUnit, LLM-assisted documentation
+**Tech:** C#, .NET, ASP.NET, gRPC, SignalR, SQL, NoSQL, Docker, GitHub Actions, PowerShell, xUnit, AI-assisted documentation
 
 #### Hands-Free Conversational AI for Pharmaceutical SOPs
 
-Co-developed a conversational AI assistant allowing pharmaceutical manufacturing operators to query standard operating procedures through a hands-free interface.
+Co-developed a headset-based conversational AI assistant allowing manufacturing operators to ask spoken questions about pharmaceutical standard operating procedures.
 
-- Implemented conversational application logic using Python and the OpenAI API.
-- Built a processing workflow combining speech-to-text, SOP-aware prompt templates, and LLM-generated responses.
-- Integrated the AI functionality into a headset-based industrial operator interface.
-- Worked on the integration between conversational AI components and the existing operational workflow.
+- Implemented conversational application logic using **Python and the OpenAI API**.
+- Built a pipeline combining speech-to-text, SOP-aware prompt templates, and LLM-generated responses.
+- Integrated the conversational workflow into an existing hands-free industrial operator interface.
+- Worked on data flow and application integration between the conversational AI components and the operator-facing software.
 
 **Tech:** Python, OpenAI API, speech-to-text, LLM integration, prompt engineering
 
 #### Technical Leadership & Organizational Integration
 
-- Guided the existing engineering team through BioNTech's organizational structures and development processes.
-- Maintained continuity of product development, engineering knowledge, and delivery practices.
-- Worked with stakeholders to evaluate priorities, implementation scope, and technical dependencies.
-- Continued technical leadership, mentoring, and cross-functional collaboration.
-- Supported engineering decision-making during the transition to new organizational expectations and processes.
+- Guided the engineering team through new organizational structures, processes, stakeholders, and ways of working following the acquisition.
+- Maintained continuity of product development, engineering knowledge, architectural decisions, and established delivery practices.
+- Continued co-owning product and engineering priorities with the Product Owner and stakeholders.
+- Participated in feature ideation, prioritization, technical planning, and delivery decisions.
+- Supported engineers through mentoring, technical guidance, and cross-functional collaboration.
+- Communicated new organizational expectations and supported the team's integration into BioNTech.
 
 ---
 
-### Goodly Innovations — Founding Engineer → Lead Software Engineer / Head of Technology
+### Goodly Innovations — Founding Engineer → Lead Software Engineer
 
 *Acquired by BioNTech*  
 **01.2018 – 09.2023 | Munich, Germany**
 
-As founding engineer and subsequent engineering lead, built and led the development of **OptiworX**, an enterprise software platform for digital work instructions, industrial augmented reality, and pharmaceutical manufacturing workflows.
+As **founding engineer and subsequent engineering lead**, built and led the development of **OptiworX**, an enterprise software platform for digital work instructions, industrial augmented reality, and pharmaceutical manufacturing workflows.
 
-Led its engineering from inception through production deployments at global pharmaceutical facilities, combining software architecture, hands-on C#/.NET development, engineering leadership, and technical product planning.
+Owned the technical architecture and drove the product's engineering from inception through deployment at global pharmaceutical manufacturing facilities. Combined hands-on backend engineering with **Head of Technology responsibilities**, including building the engineering team, establishing the software development lifecycle, and co-owning product roadmap priorities.
 
-#### Software Architecture & .NET Development
+#### Backend Architecture & Application Development
 
 - Designed and developed the platform's core backend architecture using **C# and .NET**.
-- Implemented workflow engine components for structured manufacturing processes and digital work instructions.
-- Developed ASP.NET services and REST/gRPC interfaces connecting application clients and backend functionality.
-- Built real-time communication and synchronization mechanisms using SignalR and gRPC.
+- Built workflow engine components supporting structured manufacturing processes and digital work instructions.
+- Designed and implemented **REST/gRPC APIs** connecting multiple application clients with backend services.
+- Developed real-time communication and state synchronization mechanisms using SignalR and gRPC.
 - Designed server-side state management and multi-client session workflows.
 - Implemented relational database persistence for structured application data and metadata.
 - Integrated object/blob storage for document and resource management.
-- Developed a **Blazor-based application**, gaining practical experience with .NET-driven web application development.
-- Evaluated architectural alternatives and technical dependencies as platform capabilities evolved.
-- Maintained hands-on responsibility for technically critical application components throughout the product's development.
+- Worked on system integration between backend services, interactive clients, and industrial workflows.
+- Evaluated architectural alternatives, integration patterns, and technical dependencies as the platform evolved.
+- Balanced application functionality, performance, reliability, and maintainability in architectural decisions.
+- Remained hands-on in the implementation of critical backend services and platform components throughout the product's development.
 
-#### Requirements Analysis, Roadmap & Technical Planning
+#### End-to-End Feature Ownership & Technical Roadmap
 
 - Co-owned product roadmap priorities together with the Product Owner and business stakeholders.
-- Analyzed functional and technical requirements arising from pharmaceutical manufacturing workflows.
-- Translated business needs into software designs, implementation tasks, and deliverable product functionality.
-- Participated in feature ideation, prioritization, implementation planning, and delivery decisions.
-- Evaluated technical feasibility, architectural impact, dependencies, and implementation complexity.
-- Balanced new product functionality against platform maintainability, reliability, and technical investment.
-- Helped define the technical direction and incremental evolution of the platform.
-- Worked closely with product stakeholders and engineers to clarify requirements and turn them into working software.
+- Participated in product discovery, feature ideation, requirements clarification, prioritization, and technical planning.
+- Translated pharmaceutical manufacturing requirements into application architecture, implementation tasks, and deliverable functionality.
+- Evaluated technical feasibility, implementation effort, architectural impact, and dependencies.
+- Planned technical solutions balancing immediate product needs with long-term maintainability and architectural sustainability.
+- Collaborated closely with product stakeholders and engineers throughout implementation, testing, and delivery.
+- Owned technical delivery across the product's evolution from early development into production use.
 
-#### DevOps, CI/CD & Engineering Quality
+#### DevOps, Developer Experience & Engineering Quality
 
-- Built and maintained continuous integration and delivery pipelines for .NET application components.
-- Developed build automation and tooling using PowerShell, Docker, and CI/CD infrastructure.
+- Established the engineering software development lifecycle, including development practices, testing, build automation, and release workflows.
+- Built and maintained **CI/CD pipelines** for application components and deployments.
+- Developed build and automation tooling using PowerShell, Docker, and continuous integration infrastructure.
 - Established automated testing practices and test infrastructure using xUnit.
-- Implemented reproducible build processes and automated deployment-related workflows.
-- Improved engineering tooling and development practices to support team productivity.
-- Developed diagnostics and debugging mechanisms for complex application behavior.
-- Worked on software reliability, maintainability, and release processes in **GxP-regulated environments**.
-- Supported stable on-premises software deployments in pharmaceutical manufacturing facilities.
-- Established the engineering SDLC, technical standards, and engineering practices for consistent development and delivery.
+- Implemented reproducible builds and automated deployment-related workflows.
+- Improved development environments, engineering tooling, and workflows to support team productivity and reliable releases.
+- Developed diagnostic and debugging mechanisms for complex application behavior.
+- Established technical standards supporting consistent implementation and maintainable code.
+- Supported stable, reliable on-premises deployments in pharmaceutical manufacturing facilities.
+- Ensured software stability and compliance with requirements in **GxP-regulated environments**.
+- Led the platform's engineering development into a production enterprise product prior to Goodly Innovations' acquisition by BioNTech.
 
-#### Engineering Leadership & Team Development
+#### Engineering Leadership, Mentoring & Collaboration
 
-- Planned engineering team growth based on product requirements, technical priorities, and capability gaps.
-- Built and co-hired the engineering team, defining roles and participating in recruitment.
-- Conducted technical interviews, candidate screening, and coding challenges.
-- Onboarded and mentored engineers, transferring architectural knowledge and development practices.
-- Provided day-to-day technical guidance and coordinated engineering work.
-- Led technical workshops, individual one-on-ones, and conflict resolution.
-- Improved engineering responsibilities, collaboration practices, and technical decision-making.
-- Combined management responsibilities with continued hands-on architecture and software development.
+- Built the engineering team as product and platform development needs expanded.
+- Defined engineering growth strategy, identified technical capability gaps, and planned required roles.
+- Hired or co-hired the entire engineering team, creating job specifications and participating throughout recruitment.
+- Conducted candidate screening, technical interviews, and coding challenges.
+- Onboarded engineers, transferring architectural context, product knowledge, and development practices.
+- Provided ongoing technical mentoring, engineering guidance, and professional development.
+- Led team-wide technical workshops, individual one-on-ones, and conflict resolution.
+- Established engineering responsibilities, collaboration practices, and technical standards.
+- Coordinated engineering delivery and technical decision-making across the team.
+- Combined technical leadership and mentoring with continued hands-on software architecture and development.
 
-**Tech:** C#, .NET, ASP.NET, Blazor, REST, gRPC, SignalR, SQL, NoSQL, Docker, PowerShell, xUnit, CI/CD, Unity, industrial AR
+**Tech:** C#, .NET, ASP.NET, REST, gRPC, SignalR, SQL, NoSQL, Docker, PowerShell, xUnit, CI/CD, Unity, industrial AR
 
 ---
 
@@ -240,12 +251,11 @@ Led its engineering from inception through production deployments at global phar
 
 **06.2016 – 12.2017 | Munich, Germany**
 
-Developed interactive applications, software prototypes, and client-specific solutions for organizations including Adidas, BMW, RE'FLEKT, Milkroom Studios, and Goodly Innovations.
+Developed interactive applications and software prototypes for clients including Adidas, BMW, RE'FLEKT, Milkroom Studios, and Goodly Innovations.
 
-- Implemented client application functionality and reusable software components.
-- Translated customer requirements into working prototypes and application features.
-- Worked across application logic, integrations, user interaction, testing, and optimization.
-- Delivered technical solutions in collaboration with client stakeholders.
+- Developed application functionality and reusable software components.
+- Translated client requirements into working software prototypes and technical solutions.
+- Worked across application integration, user interaction, optimization, and delivery.
 
 **Tech:** C#, Unity
 
@@ -255,13 +265,13 @@ Developed interactive applications, software prototypes, and client-specific sol
 
 **01.2011 – 05.2016 | Munich, Germany**
 
-Developed and maintained interactive applications and client-side software across web, desktop, and mobile platforms.
+Developed interactive applications and client systems across web, mobile, and desktop platforms.
 
-- Designed and implemented application components and interactive user interfaces.
-- Worked on application architecture, performance optimization, and software integration.
-- Developed reusable components and cross-platform application functionality.
+- Implemented application components and interactive user interfaces.
+- Worked on application architecture, component integration, and performance optimization.
+- Developed reusable software components and cross-platform application functionality.
 - Participated in prototyping, technical problem-solving, testing, and production delivery.
-- Worked with multidisciplinary teams to translate requirements into finished software.
+- Collaborated with multidisciplinary teams throughout the development lifecycle.
 
 **Tech:** C#, Unity, Adobe Flash, Adobe AIR  
 **Platforms:** Web, iOS, Android, Windows PC
@@ -272,9 +282,8 @@ Developed and maintained interactive applications and client-side software acros
 
 **11.2009 – 12.2010 | Novosibirsk, Russia**
 
-- Led client-side software development for an interactive application.
-- Implemented application functionality, user interfaces, and platform adaptations.
-- Ported multiple Windows applications to the Adobe Flash platform.
+- Led frontend development for an interactive restaurant simulation application.
+- Ported several Windows applications to Adobe Flash.
 
 **Tech:** Adobe Flash, ActionScript  
 **Platforms:** Web, Windows PC
@@ -285,8 +294,7 @@ Developed and maintained interactive applications and client-side software acros
 
 **07.2009 – 11.2009 | Chandigarh, India**
 
-- Developed interactive web applications and business-facing user interfaces.
-- Implemented client-side components and application functionality.
+- Developed interactive Flash-based internet applications and business user interfaces.
 
 **Tech:** Adobe Flash, ActionScript  
 **Platform:** Web
@@ -298,7 +306,7 @@ Developed and maintained interactive applications and client-side software acros
 **08.2008 – 05.2009 | Novosibirsk, Russia**
 
 - Contributed to an online photo-editing and ordering platform.
-- Implemented interactive client-side components and application workflows.
+- Implemented client-side application components.
 
 **Tech:** Adobe Flash, ActionScript  
 **Platform:** Web
@@ -309,8 +317,8 @@ Developed and maintained interactive applications and client-side software acros
 
 **06.2007 – 07.2008 | Novosibirsk, Russia**
 
-- Developed a DNA sequence viewer for genomics research.
-- Implemented interactive visualization components and data presentation functionality.
+- Developed a Flash-based DNA sequence viewer for genomics research.
+- Built interactive data visualization components.
 
 **Tech:** Adobe Flash, ActionScript  
 **Platform:** Web
@@ -321,7 +329,7 @@ Developed and maintained interactive applications and client-side software acros
 
 **06.2006 – 12.2006 | Novosibirsk, Russia**
 
-- Developed an interactive 3D software prototype in C++.
+- Developed a volumetric billiards application prototype in C++.
 - Implemented OpenGL rendering and physics-related components.
 
 **Tech:** C++, OpenGL  
@@ -347,4 +355,4 @@ B.Sc. in Computer Engineering (Computer Graphics), 2005–2009
 
 ## Keywords
 
-C#, C Sharp, .NET, .NET Core, ASP.NET, ASP.NET Core, Blazor, Web Applications, Enterprise Applications, Enterprise Software Development, Business Applications, Domain-Specific Software, Expert Software, Expert Systems, Backend Development, Full-Stack Development, Frontend Development, Software Engineering, Senior Software Engineer, Software Developer, Software Architect, Technical Architect, Technical Lead, Lead Software Engineer, Head of Technology, Technical Leadership, Software Architecture, Application Architecture, Solution Design, Modular Architecture, Distributed Systems, Distributed Application Components, REST APIs, RESTful Services, Web APIs, gRPC, SignalR, Client-Server Architecture, Real-Time Communication, Multi-Client Applications, Multi-Client Session Management, State Management, State Synchronization, Event-Driven Architecture, Publish/Subscribe, Concurrent Programming, Concurrency, Workflow Engines, Workflow Management, Workflow Automation, Process Automation, Business Process Workflows, API Integration, System Integration, Data Integration, SQL, PostgreSQL, Relational Databases, Relational Database Design, Data Modeling, Database Transactions, Database Architecture, Persistence Architecture, NoSQL, Object Storage, Blob Storage, Data Access, Caching Principles, Azure DevOps, Microsoft Azure Ecosystem Familiarity, CI/CD, Continuous Integration, Continuous Delivery, Continuous Deployment, DevOps, Docker, Containerization, Git, GitHub, GitHub Actions, Build Automation, Automated Build Pipelines, Automated Deployment Pipelines, Build Infrastructure, Development Environment Optimization, Reproducible Builds, Release Management, Deployment Automation, On-Premises Deployments, Linux, Windows, Ubuntu, PowerShell, Scripting, xUnit, Unit Testing, Integration Testing, Automated Testing, Test Infrastructure, Test Cases, Test Automation, Test Design, Debugging, Diagnostics, Structured Logging, Software Quality, Quality Assurance Collaboration, Technical Documentation, Architecture Documentation, Software Documentation, Development Guidelines, Requirements Engineering, Requirements Analysis, Functional Requirements, Technical Requirements, Technical Analysis, Business Requirements, Requirements Management, Requirements Clarification, User Stories, Acceptance Criteria, Feature Implementation, Feature Specification, Product Increments, Incremental Delivery, Iterative Development, Technical Planning, Product Roadmap, Technical Roadmap, Roadmap Co-Ownership, Roadmap Planning, Platform Evolution, Architecture Evolution, Technical Dependency Analysis, Technical Feasibility, Technology Evaluation, Architectural Tradeoffs, Technical Debt, Software Maintainability, System Reliability, Application Performance, Technical Prioritization, Feature Prioritization, Stakeholder Collaboration, Stakeholder Management, Product Owner Collaboration, Cross-Functional Collaboration, Product Engineering, Product Development, Product-Engineering Alignment, Agile Software Development, Definition of Done, Engineering Standards, Engineering Practices, Engineering Process Improvement, Engineering Leadership, Team Leadership, Engineering Mentoring, Technical Mentoring, Engineering Team Growth, Hiring, Technical Recruitment, Technical Interviews, Onboarding, Knowledge Transfer, Organizational Integration, Post-Acquisition Integration, Pharmaceutical Manufacturing, Life Sciences, Regulated Software Development, GxP, Digital Work Instructions, Standard Operating Procedures, SOPs, Industrial Software, Industrial AR, SaaS, Multi-Tenancy, Role-Based Applications, Role-Based Access Control, RBAC, React, TypeScript, JavaScript, Python, Java (Academic Foundations), C++, Go (Foundational), AWS (Experimental), Amazon ECR (Experimental), Amazon ECS (Experimental), Amazon S3 (Experimental), Vercel, Supabase, Supabase Edge Functions, OpenAI API, LLM Integration, Large Language Models, Conversational AI, Speech-to-Text, Prompt Engineering, AI-Assisted Software Engineering, AI-Native Software Engineering, AI-First Product Engineering, AI Coding Agents, Agent-Assisted Development, Agentic Coding Workflows, AGENTS.md, Project-Level Agent Instructions, AI-Assisted Implementation, AI-Assisted Architecture, AI-Assisted Testing, AI-Assisted Debugging, AI-Assisted Refactoring, AI-Assisted Documentation, AI-Assisted Technical Documentation, AI Code Generation, Human-in-the-Loop Validation, AI in Software Development, AI-Augmented Development, Robotics, ROS2, UDP, VR Teleoperation, Unity, WPF, Godot, Nakama, Computer Graphics
+Senior Backend Software Engineer, Backend Engineer, Backend Development, Platform Engineering, Product Engineering, Software Engineering, Software Architecture, Technical Architecture, Software Design, System Design, Service-Oriented Architecture, API Design, REST APIs, RESTful Services, Web APIs, gRPC, SignalR, Event-Driven Architecture, Publish/Subscribe, Messaging, Concurrency, Concurrent Programming, Real-Time Communication, Real-Time Networking, UDP, State Synchronization, Server-Side State Management, Multi-Client Session Management, Application Integration, System Integration, End-to-End Feature Ownership, Product Discovery, Requirements Engineering, Requirements Analysis, Functional Requirements, Technical Requirements, Technical Design, Feature Planning, Feature Implementation, User Stories, Acceptance Criteria, Technical Roadmap, Product Roadmap Co-Ownership, Technical Prioritization, Software Maintainability, Architectural Tradeoffs, Technical Feasibility, Technical Dependencies, Scalability, Reliability, Performance Optimization, C#, C Sharp, .NET, ASP.NET, ASP.NET Core, TypeScript, JavaScript, Python, Go, Golang (Foundational), SQL, PowerShell, C++, Java, React, Full-Stack Development, Frontend Development, Backend Services, Web Applications, Enterprise Applications, Enterprise Software, SaaS, Software as a Service, Multi-Tenancy, Role-Based Applications, Role-Based Access Control, RBAC, User Access Management, Workflow Engines, Workflow Management, Workflow Automation, Data Modeling, Relational Database Design, Relational Databases, SQL Databases, PostgreSQL, NoSQL, Database Transactions, Database Persistence, Persistence Architecture, Object Storage, Blob Storage, Cloud Infrastructure Familiarity, Cloud Deployment, Docker, Containerization, Linux, Ubuntu, Windows, DevOps, DevSecOps Awareness, Developer Experience, Developer Tooling, Development Environment Optimization, Development Workflows, SDLC, Software Development Lifecycle, CI/CD, Continuous Integration, Continuous Delivery, Continuous Deployment, Build Automation, Deployment Automation, Automated Builds, Reproducible Builds, Release Management, Release Automation, Git, GitHub, GitHub Actions, Azure DevOps, Microsoft Azure Ecosystem Familiarity, AWS (Experimental), Amazon Web Services (Experimental), AWS ECR (Experimental), AWS ECS (Experimental), Amazon S3 (Experimental), Supabase, Supabase Edge Functions, Vercel, npm, Automated Testing, Unit Testing, Integration Testing, xUnit, Testing Infrastructure, Test Automation, Code Quality, Engineering Standards, Technical Design Reviews, Technical Documentation, Architecture Documentation, Structured Logging, Diagnostics, Debugging, Application Monitoring Concepts, Troubleshooting, Production Software, On-Premises Deployments, Regulated Software Development, GxP, Pharmaceutical Manufacturing, Life Sciences Software, Industrial Software, Digital Work Instructions, Standard Operating Procedures, SOPs, Engineering Leadership, Founding Engineer, Lead Software Engineer, Technical Lead, Head of Technology, Engineering Team Building, Engineering Team Growth, Technical Mentoring, Engineering Mentoring, Team Leadership, Technical Guidance, Knowledge Sharing, Knowledge Transfer, Engineer Onboarding, Recruitment, Hiring, Technical Interviews, Technical Assessments, Team Workshops, One-on-One Meetings, Engineering Culture, Cross-Functional Collaboration, Stakeholder Collaboration, Product Owner Collaboration, Product-Engineering Alignment, Definition of Done, Agile Software Development, Iterative Development, Product Delivery, Organizational Integration, Post-Acquisition Integration, AI-Native Software Engineering, AI-First Product Engineering, AI-Assisted Software Development, AI Coding Agents, Agent-Assisted Development, Agentic Coding Workflows, AGENTS.md, Project-Level Agent Instructions, AI-Assisted Architecture, AI-Assisted Implementation, AI-Assisted Testing, AI-Assisted Debugging, AI-Assisted Refactoring, AI-Assisted Documentation, AI Code Generation, Human-in-the-Loop Validation, OpenAI API, LLM Integration, Large Language Models, Conversational AI, Speech-to-Text, Prompt Engineering, Workflow Automation, Python Automation, Robotics, ROS2, Robot Simulation, Humanoid Robotics, VR Teleoperation, Pose Retargeting, Industrial AR, Augmented Reality, Virtual Reality, Unity, Godot, Nakama, Computer Graphics
