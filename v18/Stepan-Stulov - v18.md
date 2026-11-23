@@ -9,7 +9,7 @@ Munich, Germany • info@stepanstulov.pro • +49 174 269 7778 • LinkedIn: htt
 
 Product engineering lead and hands-on software architect with 15+ years of experience building web applications, enterprise workflow platforms, and real-time interactive systems. Experienced in taking products from early development to production, growing and leading engineering teams, and combining technical direction with hands-on software development.
 
-At Goodly Innovations, helped build OptiworX into a production platform deployed across global pharmaceutical manufacturing facilities, through the company's acquisition by BioNTech. Built and developed the engineering team, including growth strategy, recruitment, onboarding, mentoring, and day-to-day leadership. Co-owned product roadmap priorities with the Product Owner and stakeholders, participating in feature ideation, technical planning, prioritization, and delivery. Subsequently helped guide the team through its transition into BioNTech's larger organization.
+As the founding engineer and subsequent engineering lead at Goodly Innovations, drove the development of OptiworX from inception into a production platform deployed across global pharmaceutical manufacturing facilities, through the company's acquisition by BioNTech. Built and developed the engineering team, including growth strategy, recruitment, onboarding, mentoring, and day-to-day leadership. Established the engineering software development lifecycle (SDLC). Co-owned product roadmap priorities with the Product Owner and stakeholders, participating in feature ideation, technical planning, prioritization, and delivery. Subsequently guided the team through its transition into BioNTech's larger organization.
 
 Broad technical background spanning **C#/.NET**, full-stack web development, distributed application components, industrial AR/VR, robotics, and applied AI. Recent hands-on work includes **React/TypeScript**, **Python**, humanoid robot teleoperation, conversational AI, and LLM-based automation.
 
@@ -48,12 +48,12 @@ Product-oriented and pragmatic, with a preference for technical ownership, effec
 
 ## Selected Achievements
 
-- Helped build and lead **OptiworX**, a multi-site, multi-tenant, real-time workflow platform deployed in global pharmaceutical manufacturing facilities, through Goodly Innovations' acquisition by BioNTech.
+- As founding engineer and subsequent engineering lead, built and led the development of **OptiworX**, a multi-site, multi-tenant, real-time workflow platform deployed in global pharmaceutical manufacturing facilities, through Goodly Innovations' acquisition by BioNTech.
 - Built and co-hired Goodly's entire engineering team, from team growth planning and job specifications through screening, interviews, coding challenges, onboarding, and continued professional development.
 - Led engineering teams through day-to-day delivery, mentoring, one-on-ones, workshops, and conflict resolution; subsequently helped integrate Goodly's engineering team into BioNTech.
 - Co-owned product roadmap priorities with the Product Owner and stakeholders, contributing to feature ideation, prioritization, technical planning, and delivery.
 - Designed backend services, workflow engines, and real-time communication layers using .NET, gRPC, and SignalR.
-- Established automation, testing, and reproducible build pipelines for GxP-regulated software deployments, and made extensive use of AI-assisted technical documentation.
+- Established the engineering SDLC, including automation, testing, and reproducible build pipelines for GxP-regulated software deployments, and made extensive use of AI-assisted technical documentation.
 - Co-developed a Python-based hands-free conversational AI assistant for pharmaceutical standard operating procedures.
 - Co-developed low-latency VR teleoperation for humanoid robots, producing demonstrations for downstream model training, with extensive use of AI-assisted software development.
 - Co-built and demonstrated a physiotherapy SaaS MVP for US practices using React, TypeScript, PostgreSQL, and Supabase, following an AI-first engineering approach with coding agents and project-level instructions.
@@ -128,11 +128,11 @@ Led engineering delivery for a no-code platform for interactive 3D worlds with V
 *Following the acquisition of Goodly Innovations*  
 **10.2023 – 04.2025 | Munich, Germany**
 
-Continued development of OptiworX within BioNTech while helping guide the existing engineering team through integration into a significantly larger organization. Continued co-owning product and engineering priorities with the Product Owner and stakeholders.
+Continued leading the engineering development of OptiworX within BioNTech while guiding the existing engineering team through integration into a significantly larger organization. Continued co-owning product and engineering priorities with the Product Owner and stakeholders.
 
 **Team Leadership & Organizational Integration**
 
-- Helped the team navigate new organizational structures, processes, stakeholders, and ways of working following the acquisition.
+- Guided the team through new organizational structures, processes, stakeholders, and ways of working following the acquisition.
 - Interpreted and communicated newly established organizational expectations while adapting to them alongside the team.
 - Continued technical leadership, mentoring, and cross-functional collaboration during the transition.
 - Maintained continuity of engineering knowledge, product development, and delivery as the team became part of BioNTech.
@@ -159,14 +159,14 @@ Continued development of OptiworX within BioNTech while helping guide the existi
 
 ---
 
-### Goodly Innovations — Lead Software Engineer (Founding)
+### Goodly Innovations — Founding Engineer → Lead Software Engineer
 
 *Acquired by BioNTech*  
 **01.2018 – 09.2023 | Munich, Germany**
 
-Helped build OptiworX, an industrial AR-enabled software platform for digital work instructions and pharmaceutical manufacturing workflows, from early product development through deployment in global manufacturing environments.
+As founding engineer and subsequent engineering lead, built and led the development of OptiworX, an industrial AR-enabled software platform for digital work instructions and pharmaceutical manufacturing workflows, from inception through deployment in global manufacturing environments.
 
-Combined hands-on engineering and architectural ownership with **Head of Technology responsibilities**, including growing, developing, and leading the engineering team, and co-owning product roadmap priorities.
+Combined hands-on engineering and architectural ownership with **Head of Technology responsibilities**, including growing, developing, and leading the engineering team, establishing the engineering SDLC, and co-owning product roadmap priorities.
 
 **Engineering Leadership & Team Building**
 
@@ -176,7 +176,7 @@ Combined hands-on engineering and architectural ownership with **Head of Technol
 - Onboarded new engineers, transferring product knowledge, architectural context, and engineering practices.
 - Provided ongoing technical mentoring, guidance, and professional development.
 - Led team-wide technical workshops, individual one-on-ones, and conflict resolution.
-- Coordinated engineering work and helped establish effective team responsibilities, collaboration practices, and technical standards.
+- Coordinated engineering work and established effective team responsibilities, collaboration practices, and technical standards.
 
 **Product Roadmap & Technical Direction**
 
@@ -197,9 +197,9 @@ Combined hands-on engineering and architectural ownership with **Head of Technol
 **Delivery & Engineering Quality**
 
 - Built CI/CD pipelines, testing frameworks, reproducible builds, and automation tooling.
-- Established engineering practices supporting maintainability, delivery quality, and reliable releases.
+- Established the engineering SDLC and practices supporting maintainability, delivery quality, and reliable releases.
 - Ensured software stability and compliance for GxP-regulated on-premises deployments.
-- Supported the product's development into a deployed pharmaceutical manufacturing platform prior to the company's acquisition by BioNTech.
+- Led the product's development into a deployed pharmaceutical manufacturing platform prior to the company's acquisition by BioNTech.
 
 **Tech:** .NET, C#, ASP.NET, gRPC, SignalR, SQL, NoSQL, Docker, PowerShell, xUnit, Unity, industrial AR
 
