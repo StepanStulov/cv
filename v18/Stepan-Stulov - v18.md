@@ -11,7 +11,7 @@ Product engineering lead and hands-on software architect with 15+ years of exper
 
 As the founding engineer and subsequent engineering lead at Goodly Innovations, drove the development of OptiworX from inception into a production platform deployed across global pharmaceutical manufacturing facilities, through the company's acquisition by BioNTech. Built and developed the engineering team, including growth strategy, recruitment, onboarding, mentoring, and day-to-day leadership. Established the engineering software development lifecycle (SDLC). Co-owned product roadmap priorities with the Product Owner and stakeholders, participating in feature ideation, technical planning, prioritization, and delivery. Subsequently guided the team through its transition into BioNTech's larger organization.
 
-Broad technical background spanning **C#/.NET**, full-stack web development, distributed application components, industrial AR/VR, robotics, and applied AI. Recent hands-on work includes **React/TypeScript**, **Python**, humanoid robot teleoperation, conversational AI, and LLM-based automation.
+Broad technical background spanning **C#/.NET**, full-stack web development, backend services and networked applications, industrial AR/VR, robotics, and applied AI. Recent hands-on work includes **React/TypeScript**, **Python**, humanoid robot teleoperation, conversational AI, and LLM-based automation.
 
 **AI-native software engineer** combining conventional engineering fundamentals with AI-assisted development workflows, coding agents, and agent-oriented project practices. Experienced in using AI throughout product development, from exploration and architecture to implementation, debugging, documentation, and iteration, while retaining human ownership of design, quality, and delivery.
 
@@ -25,7 +25,7 @@ Product-oriented and pragmatic, with a preference for technical ownership, effec
 - **Team Management & Development:** one-on-ones, engineering workshops, conflict resolution, team coordination, technical guidance, engineering culture, organizational integration
 - **Product Strategy & Roadmap:** product roadmap co-ownership, feature ideation, technical prioritization, product-engineering alignment, scope and delivery planning, stakeholder collaboration
 - **Product Engineering:** end-to-end product development, requirements management, workflow design, role-based applications, full-stack implementation, iterative delivery
-- **Software Architecture:** API design, distributed application components, real-time communication, state synchronization, concurrency, workflow engines, system integration
+- **Software Architecture:** API design, backend services, real-time communication, state synchronization, concurrency, workflow engines, system integration
 - **Full-Stack Engineering:** C#/.NET, React/TypeScript, Python, frontend and backend development, data modeling, relational databases
 - **AI-Native Software Engineering:** AI-assisted architecture and implementation, coding agents, agent-oriented development workflows, AGENTS.md, AI-assisted debugging, testing, documentation, human-in-the-loop validation
 - **Engineering Quality & Delivery:** CI/CD, automated testing, reproducible builds, diagnostics, release management, process improvement, regulated software development
